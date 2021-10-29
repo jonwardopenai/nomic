@@ -65,16 +65,8 @@ If at least one of the rules in conflict explicitly says of itself that it defer
 
 If two or more rules claim to take precedence over one another or to defer to one another, then the numerical method again governs.
 
-212. If players disagree about the legality of a move or the interpretation or application of a rule, then the player preceding the one moving is to be the Judge and decide the question. Disagreement for the purposes of this rule may be created by the insistence of any player. This process is called invoking Judgment.
-
-When Judgment has been invoked, the next player may not begin his or her turn without the consent of a majority of the other players.
-
-The Judge's Judgment may be overruled only by a unanimous vote of the other players taken before the next turn is begun. If a Judge's Judgment is overruled, then the player preceding the Judge in the playing order becomes the new Judge for the question, and so on, except that no player is to be Judge during his or her own turn or during the turn of a team-mate.
-
-Unless a Judge is overruled, one Judge settles all questions arising from the game until the next turn is begun, including questions as to his or her own legitimacy and jurisdiction as Judge.
-
-New Judges are not bound by the decisions of old Judges. New Judges may, however, settle only those questions on which the players currently disagree and that affect the completion of the turn in which Judgment was invoked. All decisions by Judges shall be in accordance with all the rules then in effect; but when the rules are silent, inconsistent, or unclear on the point at issue, then the Judge shall consider game-custom and the spirit of the game before applying other standards.
-
 213. If the rules are changed so that further play is impossible, or if the legality of a move cannot be determined with finality, or if by the Judge's best reasoning, not overruled, a move appears equally legal and illegal, then the first player unable to complete a turn is the winner.
 
 This rule takes precedence over every other rule determining the winner.
+
+214. If a player rolls a 1 on either die then they make an immutable rule mutable or just destroy a mutable rule.
