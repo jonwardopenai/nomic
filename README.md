@@ -41,7 +41,7 @@ If a rule is repealed and reenacted, it receives the number of the proposal to r
 ## Mutable Rules
 201. Players shall alternate in clockwise order, taking one whole turn apiece. Turns may not be skipped or passed, and parts of turns may not be omitted. All players begin with zero points.
 
-202. One turn consists of two parts in this order: (1) proposing one rule-change and having it voted on, and (2) throwing one die once and adding the number of points on its face to one's score.
+202. One turn consists of two parts in this order: (1) proposing one rule-change and having it voted on, and (2) throwing two die once and adding the number of points on its face to one's score.
 
 203. A rule-change is adopted if and only if the vote is unanimous among the eligible voters. If this rule is not amended by the end of the second complete circuit of turns, it automatically changes to require only a simple majority.
 
