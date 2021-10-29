@@ -55,8 +55,6 @@ If a rule is repealed and reenacted, it receives the number of the proposal to r
 
 208. The winner is the first player to achieve 100 (positive or negative) points.
 
-209. At no time may there be more than 25 mutable rules.
-
 210. Players may not conspire or consult on the making of future rule-changes unless they are team-mates.
 
 211. If two or more mutable rules conflict with one another, or if two or more immutable rules conflict with one another, then the rule with the lowest ordinal number takes precedence.
