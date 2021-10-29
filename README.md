@@ -49,8 +49,6 @@ If a rule is repealed and reenacted, it receives the number of the proposal to r
 
 205. An adopted rule-change takes full effect at the moment of the completion of the vote that adopted it.
 
-206. When a proposed rule-change is defeated, the player who proposed it loses 10 points.
-
 207. Each player always has exactly one vote.
 
 208. The winner is the first player to achieve 100 (positive or negative) points.
@@ -70,3 +68,5 @@ This rule takes precedence over every other rule determining the winner.
 214. If a player rolls a 1 on either die then they make an immutable rule mutable or just destroy a mutable rule.
 
 215. If a rule does not pass then the player who proposed it may roll 5 dice (but they don't get points from the rolls).
+
+216. Twice per game, each player may change any number (roll, dice, points or rule number) in the rules by one.
