@@ -70,5 +70,3 @@ This rule takes precedence over every other rule determining the winner.
 214. If a player rolls a 1 on either die then they make an immutable rule mutable or just destroy a mutable rule.
 
 215. If a rule does not pass then the player who proposed it may roll 5 dice (but they don't get points from the rolls).
-
-216. Instead of subjecting a proposal to a universal vote, may select one person, if fails -50.
