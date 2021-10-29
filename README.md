@@ -68,3 +68,5 @@ If two or more rules claim to take precedence over one another or to defer to on
 This rule takes precedence over every other rule determining the winner.
 
 214. If a player rolls a 1 on either die then they make an immutable rule mutable or just destroy a mutable rule.
+
+214. If a rule does not pass then the player who proposed it may roll 5 dice (but they don't get points from the rolls).
