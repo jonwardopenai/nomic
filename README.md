@@ -49,7 +49,7 @@ If a rule is repealed and reenacted, it receives the number of the proposal to r
 
 205. An adopted rule-change takes full effect at the moment of the completion of the vote that adopted it.
 
-207. Each player always has exactly one vote.
+207. Each player always has exactly zero votes.
 
 208. The winner is the first player to achieve 100 (positive or negative) points.
 
