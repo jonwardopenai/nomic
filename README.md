@@ -53,7 +53,7 @@ If a rule is repealed and reenacted, it receives the number of the proposal to r
 
 207. Each player always has exactly one vote.
 
-208. The winner is the first player to achieve 100 (positive) points.
+208. The winner is the first player to achieve 100 (positive or negative) points.
 
 209. At no time may there be more than 25 mutable rules.
 
