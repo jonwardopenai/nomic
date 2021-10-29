@@ -30,7 +30,7 @@ If a rule is repealed and reenacted, it receives the number of the proposal to r
 
 112. (MUTABLE) The state of affairs that constitutes winning may not be altered from achieving n points to any other state of affairs. The magnitude of n and the means of earning points may be changed, and rules that establish a winner when play cannot continue may be enacted and (while they are mutable) be amended or repealed.
 
-113. A player always has the option to forfeit the game rather than continue to play or incur a game penalty. No penalty worse than losing, in the judgment of the player to incur it, may be imposed.
+113. (NOW MUTABLE) A player always has the option to forfeit the game rather than continue to play or incur a game penalty. No penalty worse than losing, in the judgment of the player to incur it, may be imposed.
 
 114. There must always be at least one mutable rule. The adoption of rule-changes must never become completely impermissible.
 
