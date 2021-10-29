@@ -68,3 +68,5 @@ This rule takes precedence over every other rule determining the winner.
 215. If a rule does not pass then the player who proposed it may roll 5 dice (but they don't get points from the rolls).
 
 216. Twice per game, each player may change any number (roll, dice, points or number in a rule) in the rules by one.
+
+217. Just flip a coin to decide whether to pass a rule or not.
